@@ -17,5 +17,37 @@ def area(radius):
   return pi * radius ** 2
 ```
 
+# Lists
+* one
+* two
+* three
+* four
+* five
 
+1. A
+2. B
+3. C
+4. D
 
+Lets try and break it?
+
+4. A
+3. B
+  0. Inner
+  0. Outer
+  0. Next
+5. C
+6. D
+
+8. All alone list
+
+So that broke it let's mess with it some more
+
+1. A
+2. B
+   1. Inner
+   2. Outer
+   3. Next
+4. C
+5. D
+6. All alone list
